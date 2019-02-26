@@ -1,9 +1,5 @@
 # nlp-review
 
-### Phase I project related to systematic review of the Natural Language Processing field
-
-Project Google Drive is [here](https://drive.google.com/drive/folders/1mTeN9IXa78dQlkbpHudBfZWC0U2qL4yv); access is limited to members of the cd2h team.
-
 ## Problem statement
 Many successful NLP solutions exist, but which ones have proven to improve learning healthcare? This systematic scoping review aims to reveal research patterns that lead to implementations that impact healthcare. 
 
@@ -39,7 +35,7 @@ We encourage the community to get involved. Please make tickets or provide comme
 
 ## Working documents
 
-[The project Google drive folder] (TO DO) is accessible to onboarded participants. 
+Project Google Drive is [here](https://drive.google.com/drive/folders/1mTeN9IXa78dQlkbpHudBfZWC0U2qL4yv); access is limited to onboarded participants. 
 
 ## Slack room
 [The project slack room] (TO DO) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
