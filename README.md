@@ -25,7 +25,9 @@ Adrienne Zell | OHSU
 
 ## Team members 
 
-TO DO.
+Rose Relevo (@RoseRelevo) | OHSU
+Adrienne Zell | OHSU
+Vikas Pejaver | University of Washington
 
 ## Deliverables
 Systematic scoping review manuscript
@@ -36,6 +38,7 @@ We encourage the community to get involved. Please make tickets or provide comme
 ## Working documents
 
 Project Google Drive is [here](https://drive.google.com/drive/folders/1mTeN9IXa78dQlkbpHudBfZWC0U2qL4yv); access is limited to onboarded participants. 
+### TOC 
 
 ## Slack channel
 The project slack channel [#nlp-review](https://cd2h.slack.com/messages/CGL5KMPEW) is accessible to participants that onboard via bit.ly/cd2h-onboarding-form.
