@@ -25,9 +25,9 @@ Adrienne Zell | OHSU
 
 ## Team members 
 
-Rose Relevo (@RoseRelevo) | OHSU
-Adrienne Zell | OHSU
-Vikas Pejaver | University of Washington
+Rose Relevo (@RoseRelevo) OHSU |
+Adrienne Zell OHSU |
+Vikas Pejaver University of Washington |
 
 ## Deliverables
 Systematic scoping review manuscript
