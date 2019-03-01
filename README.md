@@ -37,6 +37,5 @@ We encourage the community to get involved. Please make tickets or provide comme
 
 Project Google Drive is [here](https://drive.google.com/drive/folders/1mTeN9IXa78dQlkbpHudBfZWC0U2qL4yv); access is limited to onboarded participants. 
 
-## Slack room
-[The project slack room] (TO DO) is accessible to onboarded participants. You will not automatically be added to Slack, please join via the link above.
-
+## Slack channel
+The project slack channel [#nlp-review](https://cd2h.slack.com/messages/CGL5KMPEW) is accessible to participants that onboard via bit.ly/cd2h-onboarding-form.
