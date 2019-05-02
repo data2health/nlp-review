@@ -3,12 +3,12 @@
 ## Lead(s)
 Name | GitHub Handle | Site
 -- | -- | --
-Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
-Peter Elkin | [github.com](http://github.com) | UBuffalo
 
 ## Contributor(s)
 Name | GitHub Handle | Site
 -- | -- | --
+Ammar Chaudhry | [informatics](https://github.com/achaudhry615/informatics) | COH
+Peter Elkin | [github.com](http://github.com) | UBuffalo
 Tamas Gal | [tsgal](https://github.com/tsgal) | CCTR
 Ken Gersing | [KenGersing](https://github.com/KenGersing) | NCATS
 Melissa Haendel | [mellybelly](http://github.com/mellybelly) | OHSU
