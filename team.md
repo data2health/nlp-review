@@ -24,7 +24,6 @@ Adrienne Zell | [adrzell](http://github.com/adrzell) | OHSU
 ## Mailing list only
 Name | GitHub Handle | Site
 -- | -- | --
-Nick Anderson | [flipcorp](http://github.com/flipcorp) | UCDavisHealth
 Jack Chang | [ab2cw](https://github.com/ab2cw) | URMC
 Connor Cook | [cgcook](https://github.com/cgcook) | OHSU
 David Ellison | [dhekidney](http://github.com/dhekidney) | OHSU
